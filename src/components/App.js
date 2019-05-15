@@ -1,9 +1,9 @@
 import React, { Component} from 'react';
-import Header from './header';
-import Form from './form';
+import Header from './Header';
+import Form from './Form';
 import {getYearDifference,brandCalculate, getPlan} from '../helper';
-import Resume from './resumeQuoting';
-import Result from './result';
+import Resume from './ResumeQuoting';
+import Result from './Result';
 
 class App extends Component {
 

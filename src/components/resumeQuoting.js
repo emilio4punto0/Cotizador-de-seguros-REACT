@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {firstUpperCase} from '../helper'
-import Result from './result';
+import Result from './Result';
 
 class Resume extends Component {
 
